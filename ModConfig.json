@@ -1,0 +1,35 @@
+{
+  "ModId": "nights.test.wizemantransparencyfix",
+  "ModName": "Wizeman Transparency Fix",
+  "ModAuthor": "Jordan",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Restores Wizeman\u0027s Transparent Effect",
+  "ModDll": "nights.test.wizemantransparencyfix.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/nights.test.wizemantransparencyfix.dll",
+  "ModR2RManagedDll64": "x64/nights.test.wizemantransparencyfix.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": false,
+  "HasExports": false,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "nights.test.wizemantransparencyfix.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubRelease": {
+      "UserName": "Colon-D",
+      "RepositoryName": "nights-wizeman-transparency-fix",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "nights.exe"
+  ],
+  "ProjectUrl": ""
+}
